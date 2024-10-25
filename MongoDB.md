@@ -155,7 +155,7 @@ db.collection.distinct()
  ```
  ## 3. Map-reduce
  **Starting in MongoDB 5.0, map-reduce is deprecated.**
- ![Demo](/Mongodb/images/map-reduce.bakedsvg.svg)
+ ![Demo](/images/map-reduce.bakedsvg.svg)
 
 
 
